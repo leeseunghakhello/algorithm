@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/프로그래머스/1/12919. 서울에서 김서방 찾기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/프로그래머스/1/12940. 최대공약수와 최소공배수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/프로그래머스/1/42576. 완주하지 못한 선수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/프로그래머스/1/42840. 모의고사" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
